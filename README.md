@@ -4,6 +4,12 @@
 
 I build responsive and user-friendly websites using HTML, CSS, and JavaScript. I enjoy learning by building practical projects and improving my development skills.
 
+## 🌐 My Portfolio
+
+Check out my personal portfolio website:
+
+[**View My Portfolio**](https://nikhilsharma28.github.io/nikhil-portfolio/)
+
 ## 🛠️ Skills
 
 - HTML5
@@ -25,6 +31,7 @@ I build responsive and user-friendly websites using HTML, CSS, and JavaScript. I
 
 - 📧 [Email Me](mailto:nikhilanshu078@gmail.com)
 - 💻 [GitHub Profile](https://github.com/Nikhilsharma28)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nikhil-sharma-37a5a8377/)
 
 ---
 
